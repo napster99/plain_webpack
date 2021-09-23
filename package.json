@@ -1,0 +1,8 @@
+{
+  "name": "plain_webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/napster99/plain_webpack.git",
+  "author": "寒汀 <zhangxj@tuya.com>",
+  "license": "MIT"
+}
