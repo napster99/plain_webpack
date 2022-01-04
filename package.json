@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/napster99/plain_webpack.git",
   "author": "寒汀 <zhangxj@tuya.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/parser": "^7.16.7"
+  }
 }
